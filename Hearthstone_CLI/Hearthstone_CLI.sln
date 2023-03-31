@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hearthstone_CLI", "Hearthstone_CLI\Hearthstone_CLI.csproj", "{BE02E811-4A95-4212-8641-1F336F3583BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE02E811-4A95-4212-8641-1F336F3583BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE02E811-4A95-4212-8641-1F336F3583BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE02E811-4A95-4212-8641-1F336F3583BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE02E811-4A95-4212-8641-1F336F3583BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A356A009-FA02-4890-9CF6-8EC3D7CA3AE4}
+	EndGlobalSection
+EndGlobal

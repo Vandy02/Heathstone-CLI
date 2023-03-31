@@ -1,0 +1,21 @@
+﻿
+I spent about 5-7 hours in total to develop this game.
+
+For the design, I created three classes - Card, Player and Game.
+
+The card class contains the properties and functions for cards in the deck.
+The card class represents a single card that contains attributes such as name, Damage,
+Cost, Attack, Message.
+The player class contains the properties and functions for players in the game.
+The player class represents a player in the game with attributes such as Name,
+deck of cards, cards in hand, current Mana, current Health(hit points).And it contains
+methods such as DrawCards(), ShuffleCards(), GenerateDeck().
+The Game class contains the game logic and methods such as Play() and EndOfGameReport().
+This class contains the flow of the game.
+
+There is a main class Program which is the start point of the game. Here I created two instances of
+class Player (player1, player2) and an instance of class Game.
+
+For the UI, it has a simple command-line interface that allows user to enter the card
+they want to play. 
+ 

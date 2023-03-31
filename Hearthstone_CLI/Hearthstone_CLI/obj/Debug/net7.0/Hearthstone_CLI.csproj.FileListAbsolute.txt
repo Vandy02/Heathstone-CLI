@@ -1,0 +1,15 @@
+/Users/vandanakerketta/Projects/Hearthstone_CLI/Hearthstone_CLI/bin/Debug/net7.0/Hearthstone_CLI
+/Users/vandanakerketta/Projects/Hearthstone_CLI/Hearthstone_CLI/bin/Debug/net7.0/Hearthstone_CLI.deps.json
+/Users/vandanakerketta/Projects/Hearthstone_CLI/Hearthstone_CLI/bin/Debug/net7.0/Hearthstone_CLI.runtimeconfig.json
+/Users/vandanakerketta/Projects/Hearthstone_CLI/Hearthstone_CLI/bin/Debug/net7.0/Hearthstone_CLI.dll
+/Users/vandanakerketta/Projects/Hearthstone_CLI/Hearthstone_CLI/bin/Debug/net7.0/Hearthstone_CLI.pdb
+/Users/vandanakerketta/Projects/Hearthstone_CLI/Hearthstone_CLI/obj/Debug/net7.0/Hearthstone_CLI.csproj.AssemblyReference.cache
+/Users/vandanakerketta/Projects/Hearthstone_CLI/Hearthstone_CLI/obj/Debug/net7.0/Hearthstone_CLI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vandanakerketta/Projects/Hearthstone_CLI/Hearthstone_CLI/obj/Debug/net7.0/Hearthstone_CLI.AssemblyInfoInputs.cache
+/Users/vandanakerketta/Projects/Hearthstone_CLI/Hearthstone_CLI/obj/Debug/net7.0/Hearthstone_CLI.AssemblyInfo.cs
+/Users/vandanakerketta/Projects/Hearthstone_CLI/Hearthstone_CLI/obj/Debug/net7.0/Hearthstone_CLI.csproj.CoreCompileInputs.cache
+/Users/vandanakerketta/Projects/Hearthstone_CLI/Hearthstone_CLI/obj/Debug/net7.0/Hearthstone_CLI.dll
+/Users/vandanakerketta/Projects/Hearthstone_CLI/Hearthstone_CLI/obj/Debug/net7.0/refint/Hearthstone_CLI.dll
+/Users/vandanakerketta/Projects/Hearthstone_CLI/Hearthstone_CLI/obj/Debug/net7.0/Hearthstone_CLI.pdb
+/Users/vandanakerketta/Projects/Hearthstone_CLI/Hearthstone_CLI/obj/Debug/net7.0/Hearthstone_CLI.genruntimeconfig.cache
+/Users/vandanakerketta/Projects/Hearthstone_CLI/Hearthstone_CLI/obj/Debug/net7.0/ref/Hearthstone_CLI.dll
